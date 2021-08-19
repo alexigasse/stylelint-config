@@ -1,0 +1,22 @@
+{
+  "name": "@alexigasse/stylelint-config-vue",
+  "version": "0.1.0",
+  "author": "Alexi Gasse <alexi.gasse@gmail.com> (https://github.com/alexigasse)",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.13.1"
+  },
+  "devDependencies": {
+    "stylelint": "^13.13.1"
+  },
+  "dependencies": {
+    "@alexigasse/stylelint-config": "^0.1.0"
+  }
+}
