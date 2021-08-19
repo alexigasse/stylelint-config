@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['@alexigasse'],
+  extends: ['@alexigasse/stylelint-config'],
   rules: {
     // Add Vue transition class name
     'selector-class-pattern': /^([a-z][a-z0-9]*)(-[a-z0-9]+)*(-(enter|leave)(-(active|to))?)?$/,

@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['@alexigasse'],
+  extends: ['@alexigasse/stylelint-config'],
   plugins: [
     // Bring in some extra rules for SCSS
     'stylelint-scss'
